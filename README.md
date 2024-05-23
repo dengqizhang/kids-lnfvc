@@ -35,6 +35,22 @@ project 文件夹中的项目要求，需有 README.md 文档其中包括介绍�
 
 ## 贡献者
 
+<div>
+</div>
+<div style="display: flex;">
+
+<div>
 <a href="https://github.com/zhang-jiaxing">
+
   <img style="border-radius: 50%;" width = 100 height = 100 src="https://avatars.githubusercontent.com/u/118111081?v=4" />
+
 </a>
+</div>
+
+<div>
+<a href="https://github.com/bhhcb">
+
+  <img style="border-radius: 50%;" width = 100 height = 100 src="https://avatars.githubusercontent.com/u/114869118?v=4" />
+</a>
+</div>
+</div>

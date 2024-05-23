@@ -32,3 +32,9 @@ project 文件夹中的项目要求，需有 README.md 文档其中包括介绍�
 ## 联系信息
 
 2435563017@qq.com
+
+## 贡献者
+
+<a href="https://github.com/zhang-jiaxing">
+  <img style="border-radius: 50%;" width = 100 height = 100 src="https://avatars.githubusercontent.com/u/118111081?v=4" />
+</a>

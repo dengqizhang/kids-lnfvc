@@ -1,0 +1,11 @@
+server:
+  port: 7201
+
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/kingchildren_auth_tool?characterEncoding=utf8&useSSL=false
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+mybatis:
+  mapper-locations: classpath:mybatis/*Mapper.xml

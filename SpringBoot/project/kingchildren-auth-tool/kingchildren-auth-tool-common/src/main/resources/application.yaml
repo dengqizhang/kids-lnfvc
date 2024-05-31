@@ -1,0 +1,6 @@
+spring:
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 0 # 指定redis的分库(共16个,0-15)

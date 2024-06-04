@@ -55,12 +55,12 @@
                 <artifactId>fastjson</artifactId>
                 <version>1.2.62</version>
             </dependency>
-            <!-- MySQL的jdbc驱动包 -->
-            <dependency>
-                <groupId>mysql</groupId>
-                <artifactId>mysql-connector-java</artifactId>
-                <version>5.1.44</version>
-            </dependency>
+<!--            &lt;!&ndash; MySQL的jdbc驱动包 &ndash;&gt;-->
+<!--            <dependency>-->
+<!--                <groupId>mysql</groupId>-->
+<!--                <artifactId>mysql-connector-java</artifactId>-->
+<!--                <version>5.1.44</version>-->
+<!--            </dependency>-->
             <dependency>
                 <groupId>cn.dev33</groupId>
                 <artifactId>sa-token-spring-boot-starter</artifactId>
